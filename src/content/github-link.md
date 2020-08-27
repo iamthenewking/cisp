@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Github Source
+date: 2019-03-10 10:00:00 Z
+layout: post
 image: img/callum-shaw-555357-unsplash.jpg
-author: [Ghost]
-date: 2019-03-10T10:00:00.000Z
+author:
+- Ghost
 tags:
-  - Source
+- Source
 excerpt: Where to find this project on GitHub.
 ---
 

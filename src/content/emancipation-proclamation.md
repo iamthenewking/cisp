@@ -1,9 +1,10 @@
 ---
-title: 'Great Gatsby'
-author: [Another Author]
+title: Great Gatsby
+date: 1922-12-12 10:00:00 Z
+author:
+- Another Author
 tags: []
 image: img/marvin-meyer-794521-unsplash.jpg
-date: '1922-12-12T10:00:00.000Z'
 draft: false
 ---
 
